@@ -14,6 +14,7 @@ int main()
             hole--;
         }
         a[hole]=value;
+        cout<<"assigned";
     }
     
     for(int i=0;i<n;i++){
